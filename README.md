@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cissa</h1>!!
 
-<h3 align="center">Ph.D. student in Computer Science. Professor, Writer, Speaker, Singer, Geek, Nerd, Otaku, Gamer and Volleyball Player.  [site](https://sites.google.com/view/professoracissagatto/in%C3%ADcio)</h3>
+<h3 align="center">Ph.D. student in Computer Science. Professor, Writer, Speaker, Singer, Geek, Nerd, Otaku, Gamer and Volleyball Player. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cissagatto&label=Profile%20views&color=0e75b6&style=flat" alt="cissagatto" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Multilabel Classification**
 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on:
 1. [Embarcados](https://www.embarcados.com.br/author/cissa/)
 2. [Prensa](https://prensa.li/@cissa.gatto/)
 3. [RPubs](https://rpubs.com/cissagatto)
@@ -17,6 +17,10 @@
 
 - 📫 How to reach me **elainececiliagatto@gmail.com**
 
+- Curriculum: [site](https://sites.google.com/view/professoracissagatto/)
+
+
+
 <!-- ### Blogs posts --> 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -24,13 +28,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/professoracissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="professoracissa" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/ucadow7a1shwwwyepjlto1cg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
+</p>
+  <a href="https://instagram.com/professoracissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="professoracissa" height="30" width="40" /></a>
+  <a href="https://fb.com/professoracissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="professoracissa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elainececiliagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12873104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12873104" height="30" width="40" /></a>
-<a href="https://fb.com/professoracissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="professoracissa" height="30" width="40" /></a>
-<a href="https://instagram.com/professoracissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="professoracissa" height="30" width="40" /></a>
 <a href="https://medium.com/@elainececiliagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elainececiliagatto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucadow7a1shwwwyepjlto1cg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
-</p>
+
 
 
 
