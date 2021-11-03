@@ -23,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.twitch.tv/cissagatto" target="blank"><img align="center" src="https://github.com/cissagatto/cissagatto/blob/main/878px-Twitch_Glitch_Logo_Purple.svg.png" alt="cissagatto" height="30" width="40" /></a>
 <a href="https://twitter.com/professoracissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="professoracissa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucadow7a1shwwwyepjlto1cg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
 <a href="https://instagram.com/professoracissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="professoracissa" height="30" width="40" /></a>
