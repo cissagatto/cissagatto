@@ -13,7 +13,7 @@
 1. [Embarcados](https://www.embarcados.com.br/author/cissa/)
 2. [Prensa](https://prensa.li/@cissa.gatto/)
 3. [RPubs](https://rpubs.com/cissagatto)
-- [Complete Curriculum](https://sites.google.com/view/professoracissagatto/)
+- [Site and Complete Curriculum](https://sites.google.com/view/professoracissagatto/)
 
 
 
