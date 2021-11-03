@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Machine Learning
 
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" /> or ![image]({BadgeURLHere})
