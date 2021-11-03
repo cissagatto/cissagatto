@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Multilabel Classification**
 
-- 📝 I regularly write articles on [https://www.embarcados.com.br/author/cissa/](https://www.embarcados.com.br/author/cissa/)
+- 📝 I regularly write articles on [https://www.embarcados.com.br/author/cissa/](Embarcados), [https://prensa.li/@cissa.gatto/](Prensa), and [https://rpubs.com/cissagatto](RPubs)
 
 - 💬 Ask me about **R, Java, C, Assembly Mips, etc.**
 
 - 📫 How to reach me **elainececiliagatto@gmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts --> 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
