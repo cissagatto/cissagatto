@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cissagatto" alt="cissagatto" /></a> </p>
 
 - 🔭 I’m currently working on **Multilabel Classification**
-- 💬 Ask me about **R, Java, C, Assembly Mips, etc.**
 - 📫 How to reach me **elainececiliagatto@gmail.com**
 - 📝 I regularly write articles on:
 1. [Embarcados](https://www.embarcados.com.br/author/cissa/)
