@@ -29,8 +29,6 @@
 <a href="https://fb.com/professoracissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="professoracissa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elainececiliagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12873104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12873104" height="30" width="40" /></a>
-<a href="https://medium.com/@elainececiliagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elainececiliagatto" height="30" width="40" /></a>
-
 
 
 
