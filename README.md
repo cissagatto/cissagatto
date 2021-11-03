@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cissa</h1>!!
 
-<h3 align="center">Ph.D. student in Computer Science. Professor, Writer, Speaker, Singer, Geek, Nerd, Otaku, Gamer, Volleyball Player.</h3>
+<h3 align="center">Ph.D. student in Computer Science. Professor, Writer, Speaker, Singer, Geek, Nerd, Otaku, Gamer and Volleyball Player.  [site](https://sites.google.com/view/professoracissagatto/in%C3%ADcio)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cissagatto&label=Profile%20views&color=0e75b6&style=flat" alt="cissagatto" /> </p>
 
@@ -8,7 +8,10 @@
 
 - 🔭 I’m currently working on **Multilabel Classification**
 
-- 📝 I regularly write articles on [https://www.embarcados.com.br/author/cissa/](Embarcados), [https://prensa.li/@cissa.gatto/](Prensa), and [https://rpubs.com/cissagatto](RPubs)
+- 📝 I regularly write articles on 
+1. [Embarcados](https://www.embarcados.com.br/author/cissa/)
+2. [Prensa](https://prensa.li/@cissa.gatto/)
+3. [RPubs](https://rpubs.com/cissagatto)
 
 - 💬 Ask me about **R, Java, C, Assembly Mips, etc.**
 
