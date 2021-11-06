@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cissagatto&label=Profile%20views&color=0e75b6&style=flat" alt="cissagatto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cissagatto" alt="cissagatto" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=cissagatto" alt="cissagatto" /></a> </p>
 
 - 🔭 I’m currently working on **Multilabel Classification**
 - 📫 How to reach me **elainececiliagatto@gmail.com**
@@ -45,9 +45,9 @@
 
 
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cissagatto&theme=dark&show_icons=true&locale=en&layout=compact" alt="cissagatto" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cissagatto&theme=onedark&show_icons=true&locale=en&layout=compact" alt="cissagatto" /></p>
 <p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cissagatto&theme=dark&show_icons=true&locale=en" alt="cissagatto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cissagatto&theme=onedark&show_icons=true&locale=en" alt="cissagatto" /></p>
 <p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cissagatto&theme=dark" alt="cissagatto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cissagatto&theme=onedark" alt="cissagatto" /></p>
 <p>
