@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Cissa!!</h1>
 
 <h3 align="center">Ph.D. student in Computer Science. Professor, Writer, Speaker, Singer, Geek, Nerd, Otaku, Gamer and Volleyball Player. </h3>
@@ -42,12 +43,11 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-`onedark` ![onedark][onedark]
 
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cissagatto&show_icons=true&locale=en&layout=compact" alt="cissagatto" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cissagatto&theme=dark&show_icons=true&locale=en&layout=compact" alt="cissagatto" /></p>
 <p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cissagatto&show_icons=true&locale=en" alt="cissagatto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cissagatto&theme=dark&show_icons=true&locale=en" alt="cissagatto" /></p>
 <p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cissagatto&" alt="cissagatto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cissagatto&theme=dark" alt="cissagatto" /></p>
 <p>
