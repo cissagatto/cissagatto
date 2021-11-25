@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/capa-git.png" width="600" height="400"/> </a> 
+<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/capa-git.png" width="1280" height="720"/> </a> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cissagatto&label=Profile%20views&theme=onedark&color=0e75b6&style=flat" alt="cissagatto" /> </p>
 
