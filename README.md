@@ -1,9 +1,5 @@
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/capa-git.png" width="640" height="360"/> </a> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cissagatto&label=Profile%20views&theme=onedark&color=0e75b6&style=flat" alt="cissagatto" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=cissagatto" alt="cissagatto" /></a> </p>
-
 - 🔭 I’m currently working on **Multilabel Classification**
 - 📫 How to reach me **elainececiliagatto@gmail.com**
 - 📝 I regularly write articles on:
@@ -48,3 +44,8 @@
 <p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cissagatto&theme=onedark" alt="cissagatto" /></p>
 <p>
+
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cissagatto&label=Profile%20views&theme=onedark&color=0e75b6&style=flat" alt="cissagatto" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=cissagatto" alt="cissagatto" /></a> </p>
