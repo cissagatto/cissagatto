@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Cissa!!</h1>
 
 <h3 align="center">Ph.D. student in Computer Science. Professor, Writer, Speaker, Singer, Geek, Nerd, Otaku, Gamer and Volleyball Player. </h3>
 
