@@ -1,6 +1,4 @@
-
-
-<h3 align="center">Ph.D. student in Computer Science. Professor, Writer, Speaker, Singer, Geek, Nerd, Otaku, Gamer and Volleyball Player. </h3>
+<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/capa-git.png" width="600" height="400"/> </a> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cissagatto&label=Profile%20views&theme=onedark&color=0e75b6&style=flat" alt="cissagatto" /> </p>
 
