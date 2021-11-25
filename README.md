@@ -1,20 +1,19 @@
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/capa-git.png" width="640" height="360"/> </a> 
 
 - 🔭 I’m currently working on **Multilabel Classification**
-- 📫 How to reach me **elainececiliagatto@gmail.com**
+- 📫 E-mail: **elainececiliagatto@gmail.com**
+- [You can see my complete curriculum here](https://sites.google.com/view/professoracissagatto/)
 - 📝 I regularly write articles on:
-1. [Embarcados](https://www.embarcados.com.br/author/cissa/)
-2. [Prensa](https://prensa.li/@cissa.gatto/)
-3. [RPubs](https://rpubs.com/cissagatto)
-- [Site and Complete Curriculum](https://sites.google.com/view/professoracissagatto/)
-
+1. 📝 [Embarcados](https://www.embarcados.com.br/author/cissa/)
+2. 📝 [Prensa](https://prensa.li/@cissa.gatto/)
+3. 📝 [RPubs](https://rpubs.com/cissagatto)
 
 
 <!-- ### Blogs posts --> 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://www.twitch.tv/cissagatto" target="blank"><img align="center" src="https://github.com/cissagatto/cissagatto/blob/main/878px-Twitch_Glitch_Logo_Purple.svg.png" alt="cissagatto" height="30" width="40" /></a>
 <a href="https://twitter.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cissagatto" height="30" width="40" /></a>
