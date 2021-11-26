@@ -37,7 +37,7 @@
 
 
 <h3 align="left">Certifications:</h3>
-<img src="https://github.com/cissagatto/cissagatto/blob/main/azure-ai-fundamentals-600x600.png" width="50" height="100"/> </a> 
+<img src="https://github.com/cissagatto/cissagatto/blob/main/azure-ai-fundamentals-600x600.png" width="200" height="200"/> </a> 
 
 
 <p>
