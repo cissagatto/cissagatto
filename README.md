@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/capa-git.png" width="640" height="360"/> </a> 
 
-- 🔭 I’m currently working on **Multilabel Classification**
+- 🔭 I’m currently working with **Multilabel Classification**
 - 📫 E-mail: **elainececiliagatto@gmail.com**
 - [You can see my complete curriculum here](https://sites.google.com/view/professoracissagatto/)
 - 📝 I regularly write articles on:
