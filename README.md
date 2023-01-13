@@ -40,14 +40,6 @@
 <img src="https://github.com/cissagatto/cissagatto/blob/main/azure-ai-fundamentals-600x600.png" width="200" height="200"/> </a> 
 
 
-<p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cissagatto&theme=onedark&show_icons=true&locale=en&layout=compact" alt="cissagatto" /></p>
-<p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cissagatto&theme=onedark&show_icons=true&locale=en" alt="cissagatto" /></p>
-<p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cissagatto&theme=onedark" alt="cissagatto" /></p>
-<p>
-
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cissagatto&label=Profile%20views&theme=onedark&color=0e75b6&style=flat" alt="cissagatto" /> </p>
 
