@@ -1,8 +1,10 @@
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/capa-git.png" width="640" height="360"/> </a> 
 
 - 🔭 I’m currently working with **Multilabel Classification**
+- **I’m currently searching for a JOB as Data Scientist**
+  
 - 📫 E-mail: **elainececiliagatto@gmail.com**
-- [You can see my complete curriculum here](https://sites.google.com/view/professor-cissa-gatto)
+- [You can see my complete curriculum here](https://sites.google.com/view/cissagatto)
 - 📝 I regularly write articles on:
 1. 📝 [Embarcados](https://www.embarcados.com.br/author/cissa/)
 2. 📝 [Prensa](https://prensa.li/@cissa.gatto/)
