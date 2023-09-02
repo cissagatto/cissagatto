@@ -1,10 +1,15 @@
 <!-- <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/capa-git.png" width="640" height="360"/> </a> --> 
 
 - 🔭 I’m currently working with **Multilabel Classification**
-- **I’m currently searching for a JOB as Data Scientist**
-  
+- **I’m currently searching for a JOB as Data Scientist**  
 - 📫 E-mail: **elainececiliagatto@gmail.com**
-- [You can see my complete curriculum here](https://sites.google.com/view/cissagatto)
+  
+- [Personal Site](https://sites.google.com/view/cissagatto)
+- [Portfolio Site](https://sites.google.com/view/professoracissagatto)
+  
+- [Curriculum Lattes](http://lattes.cnpq.br/8559022477811603)
+- [Curriculum Vitae](https://www.dropbox.com/scl/fi/pfpdu0km09wppu8t7w0g5/Curr-culo-PT.pdf?rlkey=h1hfy6sgx7k0ebljmk7eq4h5j&dl=0)
+  
 - 📝 I regularly write articles on:
 1. 📝 [Embarcados](https://www.embarcados.com.br/author/cissa/)
 2. 📝 [Prensa](https://prensa.li/@cissa.gatto/)
