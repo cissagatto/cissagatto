@@ -5,11 +5,12 @@
 - 📫 E-mail: **elainececiliagatto@gmail.com**
   
 - [Personal Site](https://sites.google.com/view/cissagatto)
-- [Portfolio Site](https://sites.google.com/view/professoracissagatto)
+- [Portfolio Site (pt-br)](https://sites.google.com/view/elaine-cecilia-gatto-pt-br)
+- [Portfolio Site (en-us)](https://sites.google.com/view/elaine-cecilia-gatto-en-us)
   
 - [Curriculum Lattes](http://lattes.cnpq.br/8559022477811603)
-- [Curriculum Vitae (pt-br](https://www.dropbox.com/scl/fi/cqxe97n9ypv22zhi5mn34/Curr-culo-Elaine-PtBr-Canva.pdf?rlkey=uue2hxdhwzv682flp1zu29xbu&dl=0)
-- [Curriculum Vitae (en-us](https://www.dropbox.com/scl/fi/zgw6ue32y45a194xsn9s9/Curriculo-Elaine-EnUS-Canva.pdf?rlkey=9md985a2mwl9vr7zb0k244p53&dl=0)
+- [Curriculum Vitae (pt-br)](https://www.dropbox.com/scl/fi/cqxe97n9ypv22zhi5mn34/Curr-culo-Elaine-PtBr-Canva.pdf?rlkey=uue2hxdhwzv682flp1zu29xbu&dl=0)
+- [Curriculum Vitae (en-us)](https://www.dropbox.com/scl/fi/zgw6ue32y45a194xsn9s9/Curriculo-Elaine-EnUS-Canva.pdf?rlkey=9md985a2mwl9vr7zb0k244p53&dl=0)
   
 - 📝 I regularly write articles on:
 1. 📝 [Embarcados](https://www.embarcados.com.br/author/cissa/)
