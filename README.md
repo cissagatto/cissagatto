@@ -12,9 +12,9 @@
 ### CURRICULUM
 - [Curriculum Lattes](http://lattes.cnpq.br/8559022477811603)
 - [Curriculum Vitae - Creative (pt-br)](https://www.dropbox.com/scl/fi/cqxe97n9ypv22zhi5mn34/Curr-culo-Elaine-PtBr-Canva.pdf?rlkey=uue2hxdhwzv682flp1zu29xbu&dl=0)
-- [Curriculum Vitae - Traditional (pt-br)]()
+- [Curriculum Vitae - Traditional (pt-br)](https://www.dropbox.com/scl/fi/cjc939n2k6gyn9r9jlcng/Elaine-Curriculum-Portuguese.pdf?rlkey=eibrjc14d6nb5n3diebp4jt23&dl=0)
 - [Curriculum Vitae - Creative (en-us)](https://www.dropbox.com/scl/fi/zgw6ue32y45a194xsn9s9/Curriculo-Elaine-EnUS-Canva.pdf?rlkey=9md985a2mwl9vr7zb0k244p53&dl=0)
-- [Curriculum Vitae - Tradictional (en-us)]()
+- [Curriculum Vitae - Tradictional (en-us)](https://www.dropbox.com/scl/fi/ctvorktj5vd9uy374env5/Elaine-Curriculum-English.pdf?rlkey=tqxfx699kzrqrm8iz72zo4tda&dl=0)
   
 ### I regularly write articles on:
 1. 📝 [Embarcados](https://www.embarcados.com.br/author/cissa/)
