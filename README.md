@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/capa-git-2023.png" width="640" height="360"/> </a>
 
 - 🔭 I’m currently working with **Multilabel Classification**
-- **I’m currently searching for a JOB as Data Scientist**  
+- **I’m currently working at Somos Educação and Redação nota 1000 as a Data Scientist**  
 - 📫 E-mail: **elainececiliagatto@gmail.com**
 
 ### PORTFOLIOS
