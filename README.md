@@ -21,7 +21,7 @@
 2. 📝 [Prensa](https://prensa.li/@cissa.gatto/)
 3. 📝 [RPubs](https://rpubs.com/cissagatto)
 
-<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/quem-%C3%A9-cissa.png" width="700" height="640"/> </a>
+<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/quem-%C3%A9-cissa.png" width="720" height="640"/> </a>
 
 
 <!-- ### Blogs posts --> 
