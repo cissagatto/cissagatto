@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/github.png width="640" height="360"/> </a>
+<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/github.png" width="640" height="360"/> </a>
 
 - 🔭 I’m currently working with **Multilabel Classification**
 - **I’m currently searching for a job as a Data Scientist or Machine Learning Researcher**  
