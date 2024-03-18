@@ -11,10 +11,10 @@
 
 ### CURRICULUM
 - [Curriculum Lattes](http://lattes.cnpq.br/8559022477811603)
-- [Curriculum - Creative (pt-br)](https://www.dropbox.com/scl/fi/cqxe97n9ypv22zhi5mn34/Curr-culo-Elaine-PtBr-Canva.pdf?rlkey=uue2hxdhwzv682flp1zu29xbu&dl=0)
-- [Curriculum - Traditional (pt-br)](https://www.dropbox.com/scl/fi/kgne6rbwnuo24vbpuxiwv/Curriculum-Elaine-PtBr-Traditional.pdf?rlkey=as3qkkklhc0m2bn55h2snhw9e&dl=0)
-- [Curriculum - Creative (en-us)](https://www.dropbox.com/scl/fi/zgw6ue32y45a194xsn9s9/Curriculo-Elaine-EnUS-Canva.pdf?rlkey=9md985a2mwl9vr7zb0k244p53&dl=0)
-- [Curriculum - Tradictional (en-us)](https://www.dropbox.com/scl/fi/gv2jetnawfathimur2ba6/Curriculum-Elaine-EnUs-Traditional.pdf?rlkey=6e89p0vth6qi1f6sbgrjjd8rm&dl=0)
+- [Curriculum - Creative (pt-br)]()
+- [Curriculum - Traditional (pt-br)]()
+- [Curriculum - Creative (en-us)]()
+- [Curriculum - Traditional (en-us)]()
   
 ### I regularly write articles on:
 1. 📝 [Embarcados](https://www.embarcados.com.br/author/cissa/)
