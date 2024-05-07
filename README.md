@@ -5,6 +5,7 @@
 - 📫 E-mail: **elainececiliagatto@gmail.com**
 
 ### Contact
+[(https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elainececiliagatto@gmail.com)](mailto:elainececiliagatto@gmail.com)
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,27 +27,17 @@
 
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/quem-cissa.png" width="720" height="640"/> </a>
 
-
-<!-- ### Blogs posts --> 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Social Media:</h3>
-<p align="left">
-<a href="https://www.twitch.tv/cissagatto" target="blank"><img align="center" src="https://github.com/cissagatto/cissagatto/blob/main/878px-Twitch_Glitch_Logo_Purple.svg.png" alt="cissagatto" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/cissagatto" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="cissagatto" height="30" width="40" /></a>
-
-  
-<a href="https://twitter.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cissagatto" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/cissagatto" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" width="40" /></a>
-
-<a href="https://instagram.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cissagatto" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/elainececiliagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/12873104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12873104" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.twitch.tv/cissagatto" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>  
+<a href="https://www.youtube.com/cissagatto" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://twitter.com/cissagatto" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/cissagatto" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/elainececiliagatto" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/12873104" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
