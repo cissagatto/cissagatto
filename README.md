@@ -25,6 +25,9 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+
 
 ### Certifications
 <p align="left">
@@ -33,14 +36,12 @@
 
 ### Social Media
 <p align="left">
+<a href="https://linkedin.com/in/elainececiliagatto" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/elainececiliagatto/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://twitter.com/cissagatto" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/cissagatto" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/elainececiliagatto" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a hre="https://github.com/cissagatto" target="blank" target="blank">><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>  
+<a href="https://www.researchgate.net/profile/Elaine-Gatto target="blank"> <img src="ttps://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>  
 <a href="https://www.kaggle.com/elainececiliagatto" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://www.researchgate.net/profile/Elaine-Gatto target="blank"> <img src="ttps://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
-<a href="https://github.com/cissagatto" target="blank"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 <a href="https://stackoverflow.com/users/12873104" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 
@@ -164,6 +165,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cissagatto&label=Profile%20views&theme=onedark&color=0e75b6&style=flat" alt="cissagatto" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=cissagatto" alt="cissagatto" /></a></p>  
 <p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats" /> <img src="https://github-readme-stats.vercel.app/api?username=cissagatto&theme=dark&show_icons=true" /></a></p>
-<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark"/></a></p>
+<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cissagatto&hide=html&layout=compact&theme=dark"/></a></p>
 
 
