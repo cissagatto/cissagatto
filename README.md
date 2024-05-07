@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/quem-cissa.png" width="720" height="640"/> </a>
 
 - 🔭 I’m currently working with **Multilabel Classification**
-- **I’m currently searching for a job as a Data Scientist or Machine Learning Researcher**  
+- **I’m currently working as a Machine Learning & Artificial Intelligence Researcher**  
 - 📫 E-mail: **elainececiliagatto@gmail.com**
 
 
@@ -42,6 +42,9 @@
 <a href="https://instagram.com/cissagatto" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Elaine-Gatto target="blank"> <img src="ttps://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>  
 <a href="https://www.kaggle.com/elainececiliagatto" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+
+### Forum  
+<p align="left">
 <a href="https://stackoverflow.com/users/12873104" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 
@@ -71,6 +74,7 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 - Quarto, RMarkdown, etc
+  
   
 ### Databases
 <p align="left">
