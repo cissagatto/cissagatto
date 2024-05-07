@@ -4,17 +4,20 @@
 - **I’m currently searching for a job as a Data Scientist or Machine Learning Researcher**  
 - 📫 E-mail: **elainececiliagatto@gmail.com**
 
-### PORTFOLIOS
+### Contact
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+
+### Websites
 - [Personal Site](https://sites.google.com/view/cissagatto)
 - [Portfolio Site (pt-br)](https://sites.google.com/view/elaine-cecilia-gatto-pt-br)
 - [Portfolio Site (en-us)](https://sites.google.com/view/elaine-cecilia-gatto-en-us)
 
 ### CURRICULUM
 - [Curriculum Lattes](http://lattes.cnpq.br/8559022477811603)
-- [Curriculum - Creative (pt-br)]()
-- [Curriculum - Traditional (pt-br)]()
-- [Curriculum - Creative (en-us)]()
-- [Curriculum - Traditional (en-us)]()
   
 ### I regularly write articles on:
 1. 📝 [Embarcados](https://www.embarcados.com.br/author/cissa/)
@@ -31,12 +34,19 @@
 <h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://www.twitch.tv/cissagatto" target="blank"><img align="center" src="https://github.com/cissagatto/cissagatto/blob/main/878px-Twitch_Glitch_Logo_Purple.svg.png" alt="cissagatto" height="30" width="40" /></a>
-<a href="https://twitter.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cissagatto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
-<a href="https://instagram.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cissagatto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elainececiliagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12873104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12873104" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/cissagatto" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="cissagatto" height="30" width="40" /></a>
 
+  
+<a href="https://twitter.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cissagatto" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucadow7a1shwwwyepjlto1cg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/cissagatto" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" width="40" /></a>
+
+<a href="https://instagram.com/cissagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cissagatto" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/elainececiliagatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
+
+<a href="https://stackoverflow.com/users/12873104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12873104" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
