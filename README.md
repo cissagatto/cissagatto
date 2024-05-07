@@ -39,7 +39,7 @@
 <a href="https://linkedin.com/in/elainececiliagatto" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a hre="https://github.com/cissagatto" target="blank" target="blank">><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 <a href="https://www.kaggle.com/elainececiliagatto" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://www.researchgate.net/profile/Elaine-Gatto target="blank">" src="ttps://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+<a href="https://www.researchgate.net/profile/Elaine-Gatto target="blank"> <img src="ttps://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 <a href="https://github.com/cissagatto" target="blank"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 <a href="https://stackoverflow.com/users/12873104" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
