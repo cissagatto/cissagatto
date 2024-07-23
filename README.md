@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/github.png" width="640" height="360"/> </a>
-<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/ingles.png" width="1280" height="720"/> </a>
+<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/ingles.png" width="854" height="480"/> </a>
 
 - 🔭 I’m currently working with **Multilabel Classification**
 - **I’m currently searching for a job as a Machine Learning & Artificial Intelligence Researcher or Data Scientist**  
