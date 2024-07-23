@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/quem-cissa.png" width="720" height="640"/> </a>
 
 - 🔭 I’m currently working with **Multilabel Classification**
-- **I’m currently working as a Machine Learning & Artificial Intelligence Researcher**  
+- **I’m currently searching for a job as a Machine Learning & Artificial Intelligence Researcher or Data Scientist**  
 - 📫 E-mail: **elainececiliagatto@gmail.com**
 
 
