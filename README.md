@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/github.png" width="640" height="360"/> </a>
-<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/whos-cissa.png" width="800" height="600"/> </a>
+<p align="center"><img src="https://github.com/cissagatto/cissagatto/blob/main/timeline.png" width="800" height="600"/> </a>
 
 - 🔭 I’m currently working with **Multilabel Classification**
 - In October I was appointed **Professor** at the Department of Applied Computing (DAC) at the Federal University of Lavras (UFLA), in the city of Lavras, in the state of Minas Gerais, Brazil!
